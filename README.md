@@ -8,8 +8,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have two cats, Musya and Breadloaf. Musya is pretty much a little princess, quite restrained and not very social, prefering to spend her time on her own. Breadloaf, on the other hand, is my little chunky teddybear, always love pets and spend every night cuddling with me in my bed. Love both of them with my whole heart :3
 
-Also, yes, I'm proud user of Godot Engine since 3.2, and no, I don't wanna talk about all the recent stuff, so anyone bringing it in will be pretty much blocked. Sorry, but I value my mental health a lot.
-
 <!---
 applehoro/applehoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
